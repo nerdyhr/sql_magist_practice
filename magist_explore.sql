@@ -112,7 +112,7 @@ left join products
 	using (product_id)
 left join product_category_name_translation
 	using (product_category_name)
-where product_category_name_english IN ("air_conditioning","electronics","home_appliances","home_appliances_2","small_appliances","computers_accessories", "computers")
+where product_category_name_english IN ("electronics","home_appliances","home_appliances_2","small_appliances","computers_accessories", "computers")
 group by price_range;
 
 /*how many orders delivered on time vs delayed*/
