@@ -1,6 +1,6 @@
 \# sql\_magist\_practice
 
-**Summary**: This codebase contains SQL queries for performing exploration on Magist database
+**Summary**: This repo contains SQL queries for performing exploration on Magist database. It also constains the a presentation file with recommendation based on findings
 
 **Languages and tools used:** SQL, SQL Workbench
 
